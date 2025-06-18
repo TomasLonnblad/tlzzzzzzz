@@ -1,12 +1,12 @@
 .hello {
   font:
-    15px Helvetica,
+    20px Helvetica,
     Arial,
     sans-serif;
   background: #00cc0c;
-  padding: 100px;
+  padding: 70px;
   text-align: center;
-  transition: 100ms ease-in background;
+  transition: 70ms ease-in background;
 }
 .hello:hover {
   background: #000ccc;
