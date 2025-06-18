@@ -3,7 +3,7 @@ import styles from "../styles.module.css";
 const Home = () => {
   return (
     <div className={styles.hello}>
-      <p>T L</p>
+      <p>rootLaout with children: React.ReactNode;</p>
     </div>
   );
 };
