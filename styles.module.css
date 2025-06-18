@@ -9,5 +9,5 @@
   transition: 100ms ease-in background;
 }
 .hello:hover {
-  background: #ccc;
+  background: #000ccc;
 }
